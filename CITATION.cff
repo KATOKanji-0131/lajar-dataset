@@ -21,7 +21,7 @@ authors:
     given-names: "智和"
     orcid: "https://orcid.org/0009-0006-8708-3225"
 
-version: "1.0.0"
+version: "v1.0.1"
 date-released: 2025-03-24
 license: "CC-BY-4.0 AND MIT"
 repository-code: "https://github.com/KATOKanji-0131/lajar-dataset"
@@ -29,7 +29,7 @@ url: "https://github.com/KATOKanji-0131/lajar-dataset"
 
 preferred-citation:
   type: misc
-  authors:
+  author:
     - family-names: "Kato"
       given-names: "Kanji"
       orcid: "https://orcid.org/0000-0002-2950-7193"
