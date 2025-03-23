@@ -29,7 +29,7 @@ url: "https://github.com/KATOKanji-0131/lajar-dataset"
 
 preferred-citation:
   type: misc
-  author:
+  authors:
     - family-names: "Kato"
       given-names: "Kanji"
       orcid: "https://orcid.org/0000-0002-2950-7193"
