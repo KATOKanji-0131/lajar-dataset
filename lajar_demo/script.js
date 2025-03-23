@@ -1,4 +1,17 @@
 document.addEventListener("DOMContentLoaded", function() {
+    document.getElementById('select2').style.display = 'none';
+    document.getElementById('enableSecondField').addEventListener('change', function () {
+        const select2 = document.getElementById('select2');
+        if (this.checked) {
+            select2.style.display = 'inline-block';
+        } else {
+            select2.style.display = 'none';
+            select2.value = ''; // 選択をリセット
+        }
+        const selectedItem1 = document.getElementById('select1').value;
+        const selectedItem2 = this.checked ? document.getElementById('select2').value : null;
+        displayItems(selectedItem1, selectedItem2);
+    });
     fetch('lajar_data.json')
         .then(response => response.json())
         .then(data => {
@@ -197,15 +210,16 @@ document.addEventListener("DOMContentLoaded", function() {
 
             select1.addEventListener('change', () => {
                 const selectedItem1 = select1.value;
-                const selectedItem2 = select2.value !== "" ? select2.value : null;
+                const selectedItem2 = document.getElementById('enableSecondField').checked ? select2.value : null;
                 displayItems(selectedItem1, selectedItem2);
             });
-
+            
             select2.addEventListener('change', () => {
                 const selectedItem1 = select1.value;
-                const selectedItem2 = select2.value !== "" ? select2.value : null;
+                const selectedItem2 = document.getElementById('enableSecondField').checked ? select2.value : null;
                 displayItems(selectedItem1, selectedItem2);
             });
+            
 
             // Resizable.jsを使用して地図のサイズを変更可能にする
             new Resizable(document.querySelector('#map-container'), {

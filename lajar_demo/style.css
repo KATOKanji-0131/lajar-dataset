@@ -187,3 +187,7 @@ body {
 .item:active {
     background-color: #d0d0d0;
 }
+
+#select2 {
+    margin-top: 5px;
+  }
