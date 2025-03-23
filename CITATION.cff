@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "以下の形式で引用してください。"
+title: "LAJaR: Linguistic Atlas of Japanese and Ryukyuan"
+authors:
+  - family-names: "宮川"
+    given-names: "創"
+    name: "宮川 創"
+    orcid: "https://orcid.org/0000-0001-8177-6182"
+  - family-names: "加藤"
+    given-names: "幹治"
+    name: "加藤 幹治"
+    orcid: "https://orcid.org/0000-0002-2950-7193"
+  - family-names: "北本"
+    given-names: "朝展"
+    name: "北本 朝展"
+    orcid: "https://orcid.org/0000-0002-1517-7795"
+  - family-names: "中川"
+    given-names: "奈津子"
+    name: "中川 奈津子"
+    orcid: "https://orcid.org/0000-0001-5243-5186"
+  - family-names: "田窪"
+    given-names: "行則"
+    name: "田窪 行則"
+    orcid: "https://orcid.org/0000-0002-4344-9153"
+  - family-names: "高田"
+    given-names: "智和"
+    name: "高田 智和"
+    orcid: "https://orcid.org/0009-0006-8708-3225"
+
+version: "1.0.0"
+date-released: 2025-03-24
+license: "CC-BY-4.0 AND MIT"
+repository-code: "https://github.com/KATOKanji-0131/lajar-dataset"
+url: "https://github.com/KATOKanji-0131/lajar-dataset"
+
+preferred-citation:
+  type: misc
+  author:
+    - name: "Miyagawa, So"
+      orcid: "https://orcid.org/0000-0001-8177-6182"
+    - name: "Kato, Kanji"
+      orcid: "https://orcid.org/0000-0002-2950-7193"
+    - name: "Kitamoto, Asanobu"
+      orcid: "https://orcid.org/0000-0002-1517-7795"
+    - name: "Nakagawa, Natsuko"
+      orcid: "https://orcid.org/0000-0001-5243-5186"
+    - name: "Takubo, Yukinori"
+      orcid: "https://orcid.org/0000-0002-4344-9153"
+    - name: "Takada, Tomokazu"
+      orcid: "https://orcid.org/0009-0006-8708-3225"
+  title: "LAJaR: Linguistic Atlas of Japanese and Ryukyuan"
+  year: 2025
+  url: "https://github.com/KATOKanji-0131/lajar-dataset"

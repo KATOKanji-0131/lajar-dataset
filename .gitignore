@@ -1,0 +1,4 @@
+*.py
+private/
+pdf_source/
+data/

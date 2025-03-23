@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>方言文法データセット（LAJaR） デモ版</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/resizable-js@1.0.0/dist/resizable.min.css">
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/resizable-js@1.0.0/dist/resizable.min.js"></script>
+    <style>
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        #header-bar {
+            background-color: rgb(37,96,167);
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        #content {
+            display: flex;
+        }
+        #sidebar {
+            width: 300px;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        #map-container {
+            flex-grow: 1;
+            height: 800px;
+        }
+        #controls {
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="header-bar">
+        <h1>方言文法データセット（LAJaR） デモ版</h1>
+    </div>
+    <div id="content">
+        <div id="sidebar">
+            <div id="item-list">
+                <select id="select1"></select>
+                <select id="select2"></select>
+            </div>
+            <div id="legend"></div>
+        </div>
+        <div id="map-container" class="resizable"></div>
+    </div>
+    <div id="controls">
+        <button id="toggle-cycle">自動切り替え: オフ</button>
+        <div id="info-display"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

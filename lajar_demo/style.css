@@ -1,0 +1,189 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f2f5;
+}
+
+#header-bar {
+    width: 100%;
+    background-color: rgb(37, 96, 167); /* RGB指定で色を設定 */
+    color: white;
+    text-align: center;
+    padding: 10px 0; /* バナーの上下の余白を小さく調整 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+    font-size: 2em; /* フォントサイズを大きく */
+    flex-shrink: 0; /* バナーの高さを固定 */
+}
+
+#content {
+    display: flex;
+    flex: 1;
+    overflow: hidden; /* スクロールバーを非表示に */
+}
+
+#sidebar {
+    width: 20%;
+    height: 100%;
+    overflow-y: auto;
+    background-color: white;
+    border-right: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
+
+#map-container {
+    flex: 1; /* 地図の幅を自動調整 */
+    height: 100%;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    resize: both;
+    position: relative;
+    z-index: 500; /* バナーよりも下に表示 */
+}
+
+#controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+#toggle-cycle {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#toggle-cycle:hover {
+    background-color: #0056b3;
+}
+
+#info-select {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+}
+
+#info-select:focus {
+    border-color: #007bff;
+}
+
+#info-display {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+.leaflet-popup-content-wrapper {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.leaflet-popup-content {
+    margin: 8px;
+    font-size: 14px;
+    color: #333;
+}
+
+.leaflet-popup-tip {
+    background: #fff;
+}
+
+/* カスタムツールチップスタイル */
+.custom-tooltip {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+/* 凡例のスタイル */
+.legend {
+    background: white;
+    line-height: 1.5em;
+    color: #333;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    font-size: 14px;
+}
+.legend h4 {
+    margin: 0 0 5px;
+}
+.legend div {
+    display: flex;
+    align-items: center;
+}
+.legend div span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    border-radius: 50%;
+    border: 1px solid #333;
+}
+
+/* 選択された項目を表示するスタイル */
+.selected-item-display {
+    background: rgba(255, 255, 255, 0.8);
+    line-height: 2em;
+    color: #333;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    font-size: 24px; /* フォントサイズを24pxに設定 */
+    font-weight: bold;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1000;
+}
+
+/* ハイライト表示のスタイル */
+.highlight {
+    background: rgba(255, 255, 255, 0.8);
+    line-height: 2em;
+    color: #333;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    font-size: 24px; /* フォントサイズを24pxに設定 */
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+}
+
+/* 項目リストのスタイル */
+.item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    background-color: #f0f0f0;
+}
+.item:hover {
+    background-color: #e0e0e0;
+}
+.item:active {
+    background-color: #d0d0d0;
+}
