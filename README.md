@@ -14,8 +14,20 @@
 ## 引用方法
 
 このデータセットを利用する場合は、以下の情報を引用してください：
-宮川創, 加藤幹治, 北本朝展, 中川奈津子, 田窪行則, 高田智和（2025-）「LAJaR: Linguistic Atlas of Japanese and Ryukyuan」https://github.com/KATOKanji-0131/lajar-dataset.
 
+- 宮川創, 加藤幹治, 北本朝展, 中川奈津子, 田窪行則, 高田智和（2025-）LAJaR: Linguistic Atlas of Japanese and Ryukyuan. https://github.com/KATOKanji-0131/lajar-dataset.
+
+```bibtex
+@misc{lajar2025,
+  author       = {宮川, 創 and 加藤, 幹治 and 北本, 朝展 and 中川, 奈津子 and 田窪, 行則 and 高田, 智和},
+  title        = {LAJaR: Linguistic Atlas of Japanese and Ryukyuan},
+  year         = {2025},
+  howpublished = {\url{https://github.com/yourusername/lajar-dataset}},
+  note         = {CC BY 4.0},
+  URL          = {https://github.com/KATOKanji-0131/lajar-dataset}
+}
+```
+- Miyagawa, So, Kanji Kato, Asanobu Kitamoto, Natsuko Nakagawa, Yukinori Takubo, Tomokazu Takada (2025-) LAJaR: Linguistic Atlas of Japanese and Ryukyuan. https://github.com/KATOKanji-0131/lajar-dataset.
 ```bibtex
 @misc{lajar2025,
   author       = {Miyagawa, So and Kato, Kanji and Kitamoto, Asanobu and Nakagawa, Natsuko and Takubo, Yukinori and Takada, Tomokazu},
@@ -119,7 +131,13 @@ Webアプリ（`lajar_demo`）で使用される地域言語データを含むJS
 # 助成・資金
 本データセットは以下の助成を受けて作成されました：
 
+## データセット構築
 - ROIS-DS JOINT 048RP2022「日琉諸語の言語類型アトラスLAJaRの開発と分析」
 - ROIS-DS JOINT 035RP2023「日琉諸語の言語類型アトラスLAJaRの開発と分析」
 - ROIS-DS JOINT 042RP2024「日琉諸語の言語類型アトラスLAJaRの開発と分析」
-- JSPS 科研費 [JP23K18667「未記述の危機言語の地点集中的記録保存：沖縄語糸満方言の記述文法書作成」](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K18667)
+
+## フィールドデータ収集
+- JSPS 科研費 [JP19J20370 北琉球徳之島伊仙方言の記述文法書作成](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20370/)（代表: 加藤幹治）
+- JSPS 科研費 [JP22KJ2426 日本語諸方言における心情述語文の格標示に関する基礎的研究：述語の品詞に着目して](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ2426)（代表: 松岡葵）
+- JSPS 科研費 [JP23KJ1712「判断文・現象文」類型における特殊構文の再検討：方言バリエーションに着目して](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23KJ1712/)（代表: 廣澤尚之）
+- JSPS 科研費 [JP23K18667「未記述の危機言語の地点集中的記録保存：沖縄語糸満方言の記述文法書作成」](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K18667)（代表: 加藤幹治）
