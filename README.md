@@ -4,6 +4,8 @@
 # このデータセットについて
 このリポジトリは、方言文法データセット **LAJaR (Linguistic Atlas of Japanese and Ryukyuan)** です。日琉諸語の文法情報を構造化データとして提供します。
 
+日琉諸語の各言語・方言がどのような文法的特徴を持っているかを、既存の文献やフィールドデータから抽出し、構造化されたデータにしました。
+
 基本的なデータ構造は、The World Atlas of Language Structures Online (WALS: https://wals.info/) のものを踏襲していますが、LAJaR独自の項目も含んでいます。
 
 # ライセンス
@@ -141,3 +143,6 @@ Webアプリ（`lajar_demo`）で使用される地域言語データを含むJS
 - JSPS 科研費 [JP22KJ2426 日本語諸方言における心情述語文の格標示に関する基礎的研究：述語の品詞に着目して](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ2426)（代表: 松岡葵）
 - JSPS 科研費 [JP23KJ1712「判断文・現象文」類型における特殊構文の再検討：方言バリエーションに着目して](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23KJ1712/)（代表: 廣澤尚之）
 - JSPS 科研費 [JP23K18667「未記述の危機言語の地点集中的記録保存：沖縄語糸満方言の記述文法書作成」](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K18667)（代表: 加藤幹治）
+
+# 参照文献
+Dryer, Matthew S. & Haspelmath, Martin (eds.) 2013. WALS Online (v2020.4) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13950591 (https://wals.info, Accessed on 2025-03-23.)
