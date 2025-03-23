@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "以下の形式で引用してください。"
-title: "LAJaR: Linguistic Atlas of Japanese and Ryukyuan"
+title: "LAJaR: Language Atlas of Japanese and Ryukyuan"
 authors:
   - family-names: "宮川"
     given-names: "創"
@@ -48,6 +48,6 @@ preferred-citation:
       orcid: "https://orcid.org/0000-0002-4344-9153"
     - name: "Takada, Tomokazu"
       orcid: "https://orcid.org/0009-0006-8708-3225"
-  title: "LAJaR: Linguistic Atlas of Japanese and Ryukyuan"
+  title: "LAJaR: Language Atlas of Japanese and Ryukyuan"
   year: 2025
   url: "https://github.com/KATOKanji-0131/lajar-dataset"
