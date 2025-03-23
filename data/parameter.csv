@@ -1,0 +1,211 @@
+pk,id,description-en,description-jp
+1,1A,Consonant Inventories,子音の数はいくつか
+2,2A,Vowel Quality Inventories,母音の数はいくつか
+3,3A,Consonant-Vowel Ratio,子音は母音の何倍あるか
+4,4A,Voicing in Plosives and Fricatives,
+5,5A,Voicing and Gaps in Plosive Systems,ptkbdgのうち、存在しない音はあるか
+6,6A,Uvular Consonants,口蓋垂音はあるか
+7,7A,Glottalized Consonants,放出音、入破音、声門化鼻音があるか
+8,8A,Lateral Consonants,側面音があるか
+9,9A,The Velar Nasal,軟口蓋鼻音を音素として持つか
+10,10A,Vowel Nasalization,弁別的な鼻母音はあるか
+11,10B,Nasal Vowels in West Africa,西アフリカ語における鼻母音
+12,11A,Front Rounded Vowels,前舌円唇母音の有無
+13,12A,Syllable Structure,音節構造
+14,13A,Tone,tonal languageか。HLより複雑な声調の区別があるか。
+15,14A,Fixed Stress Locations,固定されたストレス位置があるか
+16,15A,Weight-Sensitive Stress,
+17,16A,Weight Factors in Weight-Sensitive Stress Systems,
+18,17A,Rhythm Types,
+19,18A,Absence of Common Consonants,
+20,19A,Presence of Uncommon Consonants,
+21,20A,Fusion of Selected Inflectional Formatives,
+22,21A,Exponence of Selected Inflectional Formatives,格の標示を行う形態素は、格標示以外の機能を持つか (e.g. ラテン語の第二変化男性主格単数の -usは、主格以外に「単数」も標示する)
+23,21B,Exponence of Tense-Aspect-Mood Inflection,TAMの標示を行う形態素は、TAM以外の機能を持つか
+24,22A,Inflectional Synthesis of the Verb,動詞にいくつくらいの文法範疇が標示されるか
+25,23A,Locus of Marking in the Clause,被動者はどこに標示されるか
+26,24A,Locus of Marking in Possessive Noun Phrases,所有はどこに標示されるか
+27,25A,Locus of Marking: Whole-language Typology,被動者と所有はどこに標示されるか
+28,25B,Zero Marking of A and P Arguments,
+29,25C-J,Differential Subject Marking,
+30,25D-J,Differential Object Marking,DSM現象があるか。もしあるなら、何によって標示が変わるか（e.g. 有生性、尊卑）
+31,25E-J,Differential Genitive Marking,所有の標示が場合によって異なる現象（DGM）はあるか。
+32,26A,Prefixing vs. Suffixing in Inflectional Morphology,
+33,27A,Reduplication,
+34,28A,Case Syncretism,格を屈折によって標示するか？する場合どのような方略か
+35,29A,Syncretism in Verbal Person/Number Marking,数や人称を動詞に標示するか
+36,30A,Number of Genders,
+37,31A,Sex-based and Non-sex-based Gender Systems,
+38,32A,Systems of Gender Assignment,
+39,33A,Coding of Nominal Plurality,
+40,34A,Occurrence of Nominal Plurality,
+41,35A,Plurality in Independent Personal Pronouns,
+42,36A,The Associative Plural,
+43,36-B-J,Marking Plural by Reduplication,重複によって複数を示すことがあるか？あるとしたらどのような名詞カテゴリでそれが現れるか？
+44,36-C-J,Dual Form,名詞の双数形があるか？あるとしたらどのカテゴリに現れるか？
+45,37A,Definite Articles,
+46,38A,Indefinite Articles,
+47,39A,Inclusive/Exclusive Distinction in Independent Pronouns,
+48,39B,Inclusive/Exclusive Forms in Pama-Nyungan,
+49,40A,Inclusive/Exclusive Distinction in Verbal Inflection,
+50,41A,Distance Contrasts in Demonstratives,
+51,42A,Pronominal and Adnominal Demonstratives,
+52,43A,Third Person Pronouns and Demonstratives,
+53,43B-J,Third-person Pronoun,三人称代名詞はあるか。
+54,43C-J,Demonstrative Pronoun as a Third Person Pronoun,
+55,44A,Gender Distinctions in Independent Personal Pronouns,
+56,45A,Politeness Distinctions in Pronouns,
+57,46A,Indefinite Pronouns,
+58,47A,Intensifiers and Reflexive Pronouns,
+59,48A,Person Marking on Adpositions,側置詞に人称標示するか。
+60,49A,Number of Cases,格の数はいくつか
+61,50A,Asymmetrical Case-Marking,名詞の種類によって格配列が変わるか。例：英語は一部の人称代名詞でのみnom-gen-accの区別が生じるので、additive-quantity
+62,51A,Position of Case Affixes,
+63,52A,Comitatives and Instrumentals,Comitative（e.g. ト）とInstrumental（e.g. デ）の形式は同一か
+64,53A,Ordinal Numerals,
+65,54A,Distributive Numerals,配分数詞「〜ずつ」はどのように標示されるか
+66,55A,Numeral Classifiers,
+67,56A,Conjunctions and Universal Quantifiers,
+68,57A,Position of Pronominal Possessive Affixes,
+69,58A,Obligatory Possessive Inflection,
+70,58B,Number of Possessive Nouns,
+71,59A,Possessive Classification,被所有者の属性によって所有構文のencodingが変わるかどうか。
+72,60A,Genitives         Adjectives and Relative Clauses,
+73,61A,Adjectives without Nouns,
+74,61-J,名詞なしの形容詞,(1)そのままの形式で名詞になるか(2)形式名詞はあるか
+75,62A,Action Nominal Constructions,
+76,63A,Noun Phrase Conjunction,John went with MaryとJohn and Mary wentのように、noun phrase conjunctionとcomitative phraseで同一の形態素を用いるかどうか。
+77,64A,Nominal and Verbal Conjunction,"John and Mary, eat and drinkのように、名詞と動詞で接続方法が同一かどうか"
+78,65A,Perfective/Imperfective Aspect,
+79,66A,The Past Tense,
+80,67A,The Future Tense,
+81,68A,The Perfect,
+82,69A,Position of Tense-Aspect Affixes,テンスアスペクトは何で標示されるか
+83,70A,The Morphological Imperative,形態的な命令の標示が行われるか。行われる場合、数による対立があるか。
+84,71A,The Prohibitive,禁止の形式は、特別な命令の形式と特別な否定の形式を採用しているか
+85,72A,Imperative-Hortative Systems,WALSの説明がよくわからない (maximalでもminimalでもないということはどういうこと？)
+86,73A,The Optative,動詞屈折に希求法があるか
+87,74A,Situational Possibility,行為遂行的な可能を動詞屈折で表せるか
+88,75A,Epistemic Possibility,認識的モダリティをどのように表すか
+89,76A,Overlap between Situational and Epistemic Modal Marking,行為遂行的モダリティと認識的モダリティが同じ形式で表されるか？
+90,77A,Semantic Distinctions of Evidentiality,どのような種類の証拠性が文法的にコーディングされるか
+91,78A,Coding of Evidentiality,証拠性のコーディングは何によって行われるか
+92,79A,Suppletion According to Tense and Aspect,時制のパラダイムに補充形があるか
+93,79B,Suppletion in Imperatives and Hortatives,命令・勧誘のパラダイムに補充形があるか
+94,80A,Verbal Number and Suppletion,動詞の人称パラダイムに補充形があるか
+95,81A,Order of Subject	 Object and Verb,基本語順
+96,81B,Languages with two Dominant Orders of Subject	 Object	 and Verb,基本語順が定まらない場合のありうる語順
+97,82A,Order of Subject and Verb,
+98,83A,Order of Object and Verb,
+99,84A,Order of Object         Oblique         and Verb,
+100,85A,Order of Adposition and Noun Phrase,
+101,86A,Order of Genitive and Noun,
+102,87A,Order of Adjective and Noun,
+103,88A,Order of Demonstrative and Noun,
+104,89A,Order of Numeral and Noun,
+105,90A,Order of Relative Clause and Noun,
+106,90B,Prenominal relative clauses,NとRelの位置関係に揺れが生じ、かつその選択肢の一つにRelNがあるか。揺れがない言語はRelative clause-Noun (RelN) dominantとする。
+107,90C,Postnominal relative clauses,NとRelの位置関係に揺れが生じ、かつその選択肢の一つにNRelがあるか。
+108,90D,Internally-headed relative clauses,
+109,90E,Correlative relative clauses,
+110,90F,Adjoined relative clauses,
+111,90G,Double-headed relative clauses,
+112,91A,Order of Degree Word and Adjective,
+113,92A,Position of Polar Question Particles,
+114,93A,Position of Interrogative Phrases in Content Questions,
+115,94A,Order of Adverbial Subordinator and Clause,従属副詞を作る形態素はどこに現れるか。
+116,95A,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,
+117,96A,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,
+118,97A,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,
+119,98A,Alignment of Case Marking of Full Noun Phrases,
+120,99A,Alignment of Case Marking of Pronouns,
+121,100A,Alignment of Verbal Person Marking,
+122,101A,Expression of Pronominal Subjects,
+123,102A,Verbal Person Marking,
+124,103A,Third Person Zero of Verbal Person Marking,
+125,104A,Order of Person Markers on the Verb,
+126,105A,Ditransitive Constructions: The Verb 'Give',
+127,106A,Reciprocal Constructions,
+128,107A,Passive Constructions,
+129,108A,Antipassive Constructions,
+130,108B,Productivity of the Antipassive Construction,
+131,109A,Applicative Constructions,
+132,109B,Other Roles of Applied Objects,
+133,110A,Periphrastic Causative Constructions,Biclausalな使役表現があるか
+134,111A,Nonperiphrastic Causative Constructions,
+135,112A,Negative Morphemes,"平叙文における否定の方略。”declarative sentence""としか書いていないので、述部が動詞・形容詞・名詞のいずれも含む？"
+136,112-J-1,Negation of Verbs,動詞の否定
+137,112-J-2,Negation of Adjectives,形容詞の否定
+138,112-J-3,Negation of Nominal Predicates,名詞述語の否定
+139,113A,Symmetric and Asymmetric Standard Negation,主節の平叙の動詞において、肯定と否定で構文やパラダイムが異なるか
+140,114A,Subtypes of Asymmetric Standard Negation,113Aでassymmetricであるとき、どこがassymetricか
+141,115A,Negative Indefinite Pronouns and Predicate Negation,「誰も」「何も」のような否定不定表現と述部の否定が共起するか
+142,116A,Polar Questions,肯否疑問はどうやって標示されるか。イントネーション以外の方略が一つもないときはIntonation only
+143,117A,Predicative Possession,述部における不定・分離可能な所有表現はどう表されるか
+144,118A,Predicative Adjectives,述部の形容表現はverbalかどうか
+145,119A,Nominal and Locational Predication,名詞述語文と存在文は同じ語彙を使うか
+146,120A,Zero Copula for Predicate Nominals,コピュラのない名詞述語はありうるか
+147,121A,Comparative Constructions,比較表現における名詞はどう標示されるか
+148,122A,Relativization on Subjects,主語の関係化をどう標示するか
+149,123A,Relativization on Obliques,斜格の関係化をどう標示するか
+150,124A,Want' Complement Subjects,願望をどう標示するか
+151,125A,Purpose Clauses,目的を表す節の述語動詞は、単独で平叙文を作ることができるか
+152,126A,When' Clauses,時間の前後関係を表す節の述語動詞は、単独で平叙文を作ることができるか
+153,127A,Reason Clauses,理由を表す節の述語動詞は、単独で平叙文を作ることができるか
+154,128A,Utterance Complement Clauses,発話の補節の述語動詞は、単独で平叙文を作ることができるか
+155,129A,Hand and Arm,「手」と「腕」は同じ語彙か
+156,130A,Finger and Hand,「指」と「手」は同じ語彙か
+157,130B,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',
+158,131A,Numeral Bases,数詞は何進法か
+159,132A,Number of Non-Derived Basic Colour Categories,黒白赤黄緑青をいくつのカテゴリーで区別するか
+160,133A,Number of Basic Colour Categories,
+161,134A,Green and Blue,緑と青をどう分類するか
+162,135A,Red and Yellow,赤と黄色をどう分類するか
+163,136A,M-T Pronouns,一人称代名詞に両唇鼻音、二人称代名詞に舌頂阻害音を含むか
+164,136B,M in First Person Singular,一人称代名詞に両唇鼻音を含むか
+165,137A,N-M Pronouns,一人称代名詞に歯または歯茎鼻音、二人称代名詞に両唇鼻音を含むか
+166,137B,M in Second Person Singular,二人称代名詞に両唇鼻音を含むか
+167,138A,Tea,「茶」をなんというか
+168,139A,Irregular Negatives in Sign Languages,
+169,140A,Question Particles in Sign Languages,
+170,141A,Writing Systems,
+171,142A,Para-Linguistic Usages of Clicks,舌打ちが何を意味するか
+172,143A,Order of Negative Morpheme and Verb,動詞と否定要素の順番
+173,143B,Obligatory Double Negation,
+174,143C,Optional Double Negation,
+175,143D,Optional Triple Negation,
+176,143E,Preverbal Negative Morphemes,
+177,143F,Postverbal Negative Morphemes,
+178,143G,Minor morphological means of signaling negation,
+179,144A,Position of Negative Word With Respect to Subject	 Object	 and Verb,
+180,144B,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,
+181,144C,Languages with different word order in negative clauses,
+182,144D,The Position of Negative Morphemes in SVO Languages,
+183,144E,Multiple Negative Constructions in SVO Languages,
+184,144F,Obligatory Double Negation in SVO languages,
+185,144G,Optional Double Negation in SVO languages,
+186,144H,NegSVO Order,
+187,144I,SNegVO Order,
+188,144J,SVNegO Order,
+189,144K,SVONeg Order,
+190,144L,The Position of Negative Morphemes in SOV Languages,SOV言語で、否定の形態素はどこに位置するか
+191,144M,Multiple Negative Constructions in SOV Languages,
+192,144N,Obligatory Double Negation in SOV languages,
+193,144O,Optional Double Negation in SOV languages,
+194,144P,NegSOV Order,
+195,144Q,SNegOV Order,
+196,144R,SONegV Order,
+197,144S,SOVNeg Order,
+198,144T,The Position of Negative Morphemes in Verb-Initial Languages,
+199,144U,Double negation in verb-initial languages,
+200,144V,Verb-Initial with Preverbal Negative,
+201,144W,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,
+202,144X,Verb-Initial with Clause-Final Negative,
+203,144Y,The Position of Negative Morphemes in Object-Initial Languages,
+204,145-J,Nominal Accent Pattern,語アクセントの対立があるか。ある場合、どのようなシステムか。（無型、1型、2型、3型、4型、5型、n+1型、レジスターの有無など）
+205,146-J,Verbal Accent Pattern,語アクセントの対立があるか。ある場合、どのようなシステムか。（無型、1型、2型、3型、4型、5型、n+1型、レジスターの有無など）
+206,1447-J,Retention of word-initial /p/,
+207,148-J,Honorific Suffix in Verbal Inflection,
+208,149-J,Dimunitive,
+209,150-J,Situational Potential vs. Capable Potential,
+210,151-J,Overt Focus Marking,
