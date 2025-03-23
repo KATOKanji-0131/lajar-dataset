@@ -28,7 +28,11 @@
 ```
 
 # 各ファイルの説明
-## `/lajar_demo/lajar_data.json`
+## `/lajar_demo`
+LAJaRのデータをブラウザ上の地図で確認できます。
+デモバージョンは、https://lajar.netlify.app/ で公開しています。
+
+### `lajar_data.json`
 Webアプリ（`lajar_demo`）で使用される地域言語データを含むJSON形式のデータセットです。  
 各地点ごとに、文法特徴に関する情報をまとめています。
 
@@ -59,36 +63,36 @@ Webアプリ（`lajar_demo`）で使用される地域言語データを含むJS
   ]
 }
 ```
-
-## `value.csv`
-### データ構造
+## `/data`
+### `value.csv`
+#### データ構造
 1行に全ての地点の1つの文法特徴が、1列に1地点の全ての文法特徴が収められています。1列目から4列目はラベルで、実際の値は5列目以降です。
 - `pk`: 内部ID
 - `parameter_id`: `parameter.csv`の`id`と対応。
 - `description-en`: `parameter.csv`の`description-en`と対応。
 - `description-jp`: `parameter.csv`の`description-jp`と対応。
 
-## `parameter.csv`
+### `parameter.csv`
 `parameter.csv`は、文法特徴のパラメータ覧を示しています。
 - `pk`: 内部ID
 - `id`: パラメータID。WALSのものをそのまま使っていますが、"-J" とついている項目はLAJaR独自の項目です。
 - `description-en`: 英語での説明
 - `description-jp`: 日本語での説明
 
-## `contributor.csv`
+### `contributor.csv`
 `contributor.csv`は、収録されているデータを提供または分析した担当者を示しています。
-### 各フィールドの記述
+#### 各フィールドの記述
 - `pk`: 内部ID
 - `name-jp`: 名前（日本語）
 - `name-en`: 名前（英語）
 - `url`: Researchmap等の外部リンク
 - `contact`: 連絡先
 
-## `language.csv`
+### `language.csv`
 `language.csv`は、収録されている言語の概要を示しています。
 
 ⚠️**言語名ラベル、緯度、経度、エリア区分はデータ処理のために便宜的に入力したもので、当データセットが学術的な正確性を保証するものではありません。**
-## 各フィールドの記述
+#### 各フィールドの記述
 - `pk`: 内部ID
 - `iso`: ISOコード
 - `glottolog`: Glottologコード
@@ -104,7 +108,7 @@ Webアプリ（`lajar_demo`）で使用される地域言語データを含むJS
 - `midarea`: 群島の中の島、合併前の町村程度のレベル（言語によって恣意的）
 - `smallarea`: 字、集落のレベル
 
-## `source.bib`
+### `source.bib`
 文法特徴を参照した文献の一覧です。BibTeX形式で書かれています。
 
 # 連絡先
