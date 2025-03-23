@@ -15,11 +15,11 @@
 
 このデータセットを利用する場合は、以下の情報を引用してください：
 
-- 宮川創, 加藤幹治, 北本朝展, 中川奈津子, 田窪行則, 高田智和（2025-）LAJaR: Linguistic Atlas of Japanese and Ryukyuan. https://github.com/KATOKanji-0131/lajar-dataset.
+- 加藤幹治, 宮川創, 北本朝展, 中川奈津子, 田窪行則, 高田智和（2025-）LAJaR: Linguistic Atlas of Japanese and Ryukyuan. https://github.com/KATOKanji-0131/lajar-dataset.
 
 ```bibtex
 @misc{lajar2025,
-  author       = {宮川, 創 and 加藤, 幹治 and 北本, 朝展 and 中川, 奈津子 and 田窪, 行則 and 高田, 智和},
+  author       = {加藤, 幹治 and 宮川, 創 and 北本, 朝展 and 中川, 奈津子 and 田窪, 行則 and 高田, 智和},
   title        = {LAJaR: Linguistic Atlas of Japanese and Ryukyuan},
   year         = {2025},
   howpublished = {\url{https://github.com/yourusername/lajar-dataset}},
@@ -27,10 +27,10 @@
   URL          = {https://github.com/KATOKanji-0131/lajar-dataset}
 }
 ```
-- Miyagawa, So, Kanji Kato, Asanobu Kitamoto, Natsuko Nakagawa, Yukinori Takubo, Tomokazu Takada (2025-) LAJaR: Linguistic Atlas of Japanese and Ryukyuan. https://github.com/KATOKanji-0131/lajar-dataset.
+- Kato, Kanji, So Miyagawa, Asanobu Kitamoto, Natsuko Nakagawa, Yukinori Takubo, Tomokazu Takada (2025-) LAJaR: Linguistic Atlas of Japanese and Ryukyuan. https://github.com/KATOKanji-0131/lajar-dataset.
 ```bibtex
 @misc{lajar2025,
-  author       = {Miyagawa, So and Kato, Kanji and Kitamoto, Asanobu and Nakagawa, Natsuko and Takubo, Yukinori and Takada, Tomokazu},
+  author       = {Kato, Kanji and Miyagawa, So and Kitamoto, Asanobu and Nakagawa, Natsuko and Takubo, Yukinori and Takada, Tomokazu},
   title        = {LAJaR: Linguistic Atlas of Japanese and Ryukyuan},
   year         = {2025},
   howpublished = {\url{https://github.com/yourusername/lajar-dataset}},
