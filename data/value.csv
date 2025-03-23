@@ -205,8 +205,8 @@ Non-zero marking"
 203,144Y,The Position of Negative Morphemes in Object-Initial Languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
 204,145-J,Nominal Accent Pattern,語アクセントの対立があるか。ある場合、どのようなシステムか。（無型、1型、2型、3型、4型、5型、n+1型、レジスターの有無など）,3型,no data,no data,無型,2型,n+1,no data,無型,no data,無型,no data,無型,no data,no data
 205,146-J,Verbal Accent Pattern,語アクセントの対立があるか。ある場合、どのようなシステムか。（無型、1型、2型、3型、4型、5型、n+1型、レジスターの有無など）,2型,no data,no data,無型,2型,1型,no data,無型,no data,無型,no data,無型,no data,no data
-206,1447-J,Retention of word-initial /p/,no data,なし,no data,no data,なし,1単語のみ（pojaNsu: 肛門）。これは「保持している」といえる?,no data,no data,なし,no data,no data,no data,no data,no data,no data
-207,148-J,Honorific Suffix in Verbal Inflection,no data,なし,no data,no data,あり,ある,ある,no data,あり,あり,no data,no data,なし,no data,no data
-208,149-J,Dimunitive,no data,no data,no data,no data,なし,no data,no data,no data,なし,no data,no data,no data,no data,no data,no data
-209,150-J,Situational Potential vs. Capable Potential,no data,no data,no data,no data,あり,no data,no data,no data,あり,no data,なし,no data,なし,no data,no data
-210,151-J,Overt Focus Marking,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,なし,no data,no data,no data,no data
+206,1447-J,Retention of word-initial /p/,no data,No,no data,no data,No,1単語のみ（pojaNsu: 肛門）。これは「保持している」といえる?,no data,no data,No,no data,no data,no data,no data,no data,no data
+207,148-J,Honorific Suffix in Verbal Inflection,no data,No,no data,no data,Yes,ある,Yes,no data,Yes,Yes,no data,no data,No,no data,no data
+208,149-J,Dimunitive,no data,no data,no data,no data,No,no data,no data,no data,No,no data,no data,no data,no data,no data,no data
+209,150-J,Situational Potential vs. Capable Potential,no data,no data,no data,no data,Yes,no data,no data,no data,Yes,no data,No,no data,No,no data,no data
+210,151-J,Overt Focus Marking,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,No,no data,no data,no data,no data
