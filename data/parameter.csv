@@ -27,8 +27,8 @@ pk,id,description-en,description-jp
 26,24A,Locus of Marking in Possessive Noun Phrases,所有はどこに標示されるか
 27,25A,Locus of Marking: Whole-language Typology,被動者と所有はどこに標示されるか
 28,25B,Zero Marking of A and P Arguments,
-29,25C-J,Differential Subject Marking,
-30,25D-J,Differential Object Marking,DSM現象があるか。もしあるなら、何によって標示が変わるか（e.g. 有生性、尊卑）
+29,25C-J,Differential Subject Marking,DSM現象があるか。もしあるなら、何によって標示が変わるか（e.g. 有生性、尊卑）
+30,25D-J,Differential Object Marking,DOM現象があるか。もしあるなら、何によって標示が変わるか（e.g. 有生性、尊卑）
 31,25E-J,Differential Genitive Marking,所有の標示が場合によって異なる現象（DGM）はあるか。
 32,26A,Prefixing vs. Suffixing in Inflectional Morphology,
 33,27A,Reduplication,
