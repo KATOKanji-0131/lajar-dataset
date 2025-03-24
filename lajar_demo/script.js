@@ -187,29 +187,29 @@ document.addEventListener("DOMContentLoaded", function() {
 
             }
 
-            let autoCycle;
-            let currentIndex = 0;
+            // let autoCycle;
+            // let currentIndex = 0;
 
-            function cycleItems() {
-                const selectedItem1 = dropdownContents[currentIndex % dropdownContents.length];
-                const selectedItem2 = dropdownContents[(currentIndex + 1) % dropdownContents.length];
-                displayItems(selectedItem1, selectedItem2);
-                currentIndex = (currentIndex + 2) % dropdownContents.length;
-            }
+            // function cycleItems() {
+            //     const selectedItem1 = dropdownContents[currentIndex % dropdownContents.length];
+            //     const selectedItem2 = dropdownContents[(currentIndex + 1) % dropdownContents.length];
+            //     displayItems(selectedItem1, selectedItem2);
+            //     currentIndex = (currentIndex + 2) % dropdownContents.length;
+            // }
 
-            function toggleAutoCycle() {
-                const button = document.getElementById("toggle-cycle");
-                if (autoCycle) {
-                    clearInterval(autoCycle);
-                    autoCycle = null;
-                    button.innerText = "自動切り替え: オフ";
-                } else {
-                    autoCycle = setInterval(cycleItems, 3000);
-                    button.innerText = "自動切り替え: オン";
-                }
-            }
+            // function toggleAutoCycle() {
+            //     const button = document.getElementById("toggle-cycle");
+            //     if (autoCycle) {
+            //         clearInterval(autoCycle);
+            //         autoCycle = null;
+            //         button.innerText = "自動切り替え: オフ";
+            //     } else {
+            //         autoCycle = setInterval(cycleItems, 3000);
+            //         button.innerText = "自動切り替え: オン";
+            //     }
+            // }
 
-            document.getElementById("toggle-cycle").addEventListener("click", toggleAutoCycle);
+            // document.getElementById("toggle-cycle").addEventListener("click", toggleAutoCycle);
 
             select1.addEventListener('change', () => {
                 const selectedItem1 = select1.value;
