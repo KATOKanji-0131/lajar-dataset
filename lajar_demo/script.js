@@ -37,9 +37,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
             const map = L.map('map-container').setView([35.5, 138.2529], 5);
 
-            // OpenStreetMapタイルレイヤー
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            // 地理院地図タイルレイヤー
+            L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
+                attribution: '<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank">地理院地図</a>',
+                maxZoom: 18,
+                minZoom: 5,
             }).addTo(map);
 
             const markers = [];
