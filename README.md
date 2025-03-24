@@ -23,7 +23,7 @@
 ```bibtex
 @misc{lajar2025,
   author       = {加藤, 幹治 and 宮川, 創 and 北本, 朝展 and 中川, 奈津子 and 田窪, 行則 and 高田, 智和},
-  title        = {LAJaR: Linguistic Atlas of Japanese and Ryukyuan},
+  title        = {LAJaR (日琉諸語文法データ) データセット},
   year         = {2025},
   howpublished = {\url{https://github.com/yourusername/lajar-dataset}},
   note         = {CC BY 4.0},
@@ -135,9 +135,9 @@ LAJaR Dataset をブラウザ上の地図で確認できます。
 本データセットは以下の助成を受けて作成されました：
 
 ## データセット構築
-- ROIS-DS JOINT 048RP2022「日琉諸語の言語類型アトラスLAJaRの開発と分析」
-- ROIS-DS JOINT 035RP2023「日琉諸語の言語類型アトラスLAJaRの開発と分析」
-- ROIS-DS JOINT 042RP2024「日琉諸語の言語類型アトラスLAJaRの開発と分析」
+- ROIS-DS JOINT [048RP2022「日琉諸語の言語類型アトラスLAJaRの開発と分析」](https://ds.rois.ac.jp/article/2022_rois-ds-joint_seika#048RP)（代表: 宮川創）
+- ROIS-DS JOINT [035RP2023「日琉諸語の言語類型アトラスLAJaRの開発と分析」](https://ds.rois.ac.jp/2023_rois-ds-joint_seika#035RP2023)（代表: 宮川創）
+- ROIS-DS JOINT [042RP2024「日琉諸語の言語類型アトラスLAJaRの開発と分析」](https://ds.rois.ac.jp/article/2024_rois-ds-joint_result)（代表: 宮川創）
 
 ## フィールドデータ収集
 - JSPS 科研費 [JP19J20370 北琉球徳之島伊仙方言の記述文法書作成](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20370/)（代表: 加藤幹治）
