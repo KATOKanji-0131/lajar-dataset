@@ -30,7 +30,7 @@
   URL          = {https://github.com/KATOKanji-0131/lajar-dataset}
 }
 ```
-- Kato, Kanji, So Miyagawa, Asanobu Kitamoto, Natsuko Nakagawa, Yukinori Takubo, Tomokazu Takada (2025-) LAJaR: Linguistic Atlas of Japanese and Ryukyuan. https://github.com/KATOKanji-0131/lajar-dataset.
+- Kato, Kanji, So Miyagawa, Asanobu Kitamoto, Natsuko Nakagawa, Yukinori Takubo, and Tomokazu Takada (2025-) LAJaR: Linguistic Atlas of Japanese and Ryukyuan. https://github.com/KATOKanji-0131/lajar-dataset.
 ```bibtex
 @misc{lajar2025,
   author       = {Kato, Kanji and Miyagawa, So and Kitamoto, Asanobu and Nakagawa, Natsuko and Takubo, Yukinori and Takada, Tomokazu},
