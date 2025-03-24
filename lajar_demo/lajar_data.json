@@ -329,7 +329,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "P is zero-marked",
                     "source": "no data"
                 },
                 {
@@ -345,7 +345,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "suffix",
+                    "value": "Predominantly suffixing",
                     "source": "no data"
                 },
                 {
@@ -373,7 +373,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "suffix / redup",
+                    "value": "suffix / reduplication",
                     "source": "no data"
                 },
                 {
@@ -1175,19 +1175,19 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Dependent-marking",
+                    "source": "no data"
+                },
+                {
+                    "value": "P is zero-marked",
+                    "source": "no data"
+                },
+                {
+                    "value": "Animacy, derogativity, addressability",
                     "source": "no data"
                 },
                 {
                     "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "Animacy",
                     "source": "no data"
                 },
                 {
@@ -1203,7 +1203,27 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No case marking",
+                    "source": "no data"
+                },
+                {
+                    "value": "No subject person/number marking",
+                    "source": "no data"
+                },
+                {
+                    "value": "No grammatical gender",
+                    "source": "no data"
+                },
+                {
+                    "value": "No grammatical gender",
+                    "source": "no data"
+                },
+                {
+                    "value": "No grammatical gender",
+                    "source": "no data"
+                },
+                {
+                    "value": "suffix / reduplication",
                     "source": "no data"
                 },
                 {
@@ -1215,7 +1235,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Associative same as additive plural",
                     "source": "no data"
                 },
                 {
@@ -1227,7 +1247,31 @@
                     "source": "no data"
                 },
                 {
+                    "value": "No definite or indefinite article",
+                    "source": "no data"
+                },
+                {
+                    "value": "No definite or indefinite article",
+                    "source": "no data"
+                },
+                {
+                    "value": "No inclusice / exclusive",
+                    "source": "no data"
+                },
+                {
                     "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "No person marking",
+                    "source": "no data"
+                },
+                {
+                    "value": "Two-way contrast",
+                    "source": "no data"
+                },
+                {
+                    "value": "Different inflection",
                     "source": "no data"
                 },
                 {
@@ -1239,67 +1283,23 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "all noun",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No gender distinctions",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Binary politeness distinction",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Interrogative-based",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
+                    "value": "Identical",
                     "source": "no data"
                 },
                 {
@@ -2923,7 +2923,7 @@
                     "source": "松岡フィールドデータ"
                 },
                 {
-                    "value": "suffix / redup",
+                    "value": "suffix / reduplication",
                     "source": "松岡（2021: 34）; 松岡フィールドデータ"
                 },
                 {
@@ -4463,7 +4463,7 @@
             ]
         },
         {
-            "name": "富山市",
+            "name": "富山県富山市",
             "contributor": [
                 "宮岡大"
             ],
@@ -6284,19 +6284,19 @@
                     "source": "Shimoji et al. (2022: 315-316)"
                 },
                 {
-                    "value": "animacy, transitivity, focus",
+                    "value": "Animacy, transitivity, focus",
                     "source": "Shimoji et al. (2022: 315),下地他（2016：38-44）"
                 },
                 {
-                    "value": "animacy, adjacency",
+                    "value": "Animacy, adjacency",
                     "source": "Shimoji et al. (2022: 316)"
                 },
                 {
-                    "value": "animacy, alienability",
+                    "value": "Animacy, alienability",
                     "source": "Shimoji et al. (2022: 310)"
                 },
                 {
-                    "value": "predominantly suffixing",
+                    "value": "Predominantly suffixing",
                     "source": "Shimoji et al. (2022)"
                 },
                 {
@@ -7984,7 +7984,7 @@
                     "source": "中村（2019：47^48）"
                 },
                 {
-                    "value": "animacy",
+                    "value": "Animacy",
                     "source": "中村（2019:102）"
                 },
                 {
@@ -7992,11 +7992,11 @@
                     "source": "中村（2019:104）"
                 },
                 {
-                    "value": "animacy",
+                    "value": "Animacy",
                     "source": "中村（2019:102）"
                 },
                 {
-                    "value": "suffixing",
+                    "value": "Predominantly suffixing",
                     "source": "中村（2019:57-77）"
                 },
                 {
@@ -8016,11 +8016,11 @@
                     "source": "中村（2019:57-69）"
                 },
                 {
-                    "value": "no gender",
+                    "value": "No gender system",
                     "source": "中村（2019:57-69）"
                 },
                 {
-                    "value": "no gender",
+                    "value": "No gender system",
                     "source": "中村（2019:57-69）"
                 },
                 {
@@ -8846,7 +8846,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "suffixing",
+                    "value": "Predominantly suffixing",
                     "source": "竹田（2014）（具体例から判断）"
                 },
                 {
@@ -9684,7 +9684,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "none",
+                    "value": "no data",
                     "source": "佐々木（2004: 14）"
                 },
                 {
@@ -9692,11 +9692,11 @@
                     "source": "佐々木（2004: 14）"
                 },
                 {
-                    "value": "animacy, possessorとpossessumの意味関係",
+                    "value": "Animacy, possessor-possessum relation",
                     "source": "佐々木（2004: 14, 2章）"
                 },
                 {
-                    "value": "suffixing",
+                    "value": "Predominantly suffixing",
                     "source": "佐々木（2004: 20~23）"
                 },
                 {
@@ -9716,11 +9716,11 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no gender",
+                    "value": "No gender system",
                     "source": "no data"
                 },
                 {
-                    "value": "no gender",
+                    "value": "No gender system",
                     "source": "no data"
                 },
                 {
@@ -10566,11 +10566,11 @@
                     "source": "no data"
                 },
                 {
-                    "value": "No grammatical gender",
+                    "value": "No gender system",
                     "source": "no data"
                 },
                 {
-                    "value": "No grammatical gender",
+                    "value": "No gender system",
                     "source": "no data"
                 },
                 {
