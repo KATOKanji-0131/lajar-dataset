@@ -33,7 +33,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 select2.appendChild(option2);
             });
 
-            const map = L.map('map-container').setView([36.2048, 138.2529], 5);
+            
+
+            const map = L.map('map-container').setView([34.35, 138.2529], 5);
 
             // OpenStreetMapタイルレイヤー
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -72,6 +74,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         return `<polygon points="12,22 22,4 2,4" fill="${color}" stroke="black" stroke-width="2"/>`;
                 }
             }
+            
 
             function displayItems(selectedItem1, selectedItem2 = null) {
                 markers.forEach(marker => map.removeLayer(marker));
@@ -234,10 +237,16 @@ document.addEventListener("DOMContentLoaded", function() {
 
             // 初回表示
             function initialDisplay() {
+                console.log('🟦 initialDisplay 実行開始');
+                if (select1.options.length > 0) {
+                    select1.selectedIndex = 0;
+                    console.log("selectedItem1:", select1.value);
+                }
                 const selectedItem1 = select1.value;
-                const selectedItem2 = select2.value !== "" ? select2.value : null;
+                const selectedItem2 = document.getElementById('enableSecondField').checked ? select2.value : null;
                 displayItems(selectedItem1, selectedItem2);
             }
+            
 
             initialDisplay();
         })
