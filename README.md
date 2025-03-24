@@ -2,7 +2,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 # このデータセットについて
-日琉諸語文法データプロジェクト LAJaR (Linguistic Atlas of Japanese and Ryukyuan) では、日琉諸語の各言語・方言がどのような文法的特徴を持っているかを、既存の文献やフィールドデータから抽出し、構造化したデータを公開します。このリポジトリでは、LAJaR データセットを提供します。基本的なデータ構造はWALS ([The World Atlas of Language Structures Online](https://wals.info/))のものを踏襲していますが、LAJaR独自の項目も含んでいます。
+日琉諸語文法データプロジェクト LAJaR (Linguistic Atlas of Japanese and Ryukyuan) では、日琉諸語の各言語・方言がどのような文法的特徴を持っているかを、既存の文献やフィールドデータから抽出し、構造化したデータを公開します。
+
+このリポジトリは、「日琉諸語文法データセット」（LAJaR Dataset）を提供します。基本的なデータ構造はWALS ([The World Atlas of Language Structures Online](https://wals.info/))のものを踏襲していますが、LAJaR独自の項目も含んでいます。
+
+また[日琉諸語文法データセット（LAJaR Dataset） デモサイト](https://lajar.netlify.app/)では、「日琉諸語文法データセット」を可視化できます。
+
 
 # ライセンス
 - **データ（例: JSON, CSVファイル）**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
@@ -13,7 +18,7 @@
 
 このデータセットを利用する場合は、以下の情報を引用してください：
 
-- 加藤幹治, 宮川創, 北本朝展, 中川奈津子, 田窪行則, 高田智和（2025-）LAJaR: Linguistic Atlas of Japanese and Ryukyuan. https://github.com/KATOKanji-0131/lajar-dataset.
+- 加藤幹治, 宮川創, 北本朝展, 中川奈津子, 田窪行則, 高田智和（2025-）LAJaR (日琉諸語文法データ) データセット. https://github.com/KATOKanji-0131/lajar-dataset.
 
 ```bibtex
 @misc{lajar2025,
@@ -29,7 +34,7 @@
 ```bibtex
 @misc{lajar2025,
   author       = {Kato, Kanji and Miyagawa, So and Kitamoto, Asanobu and Nakagawa, Natsuko and Takubo, Yukinori and Takada, Tomokazu},
-  title        = {LAJaR: Linguistic Atlas of Japanese and Ryukyuan},
+  title        = {LAJaR (Linguistic Atlas of Japanese and Ryukyuan) Dataset},
   year         = {2025},
   howpublished = {\url{https://github.com/yourusername/lajar-dataset}},
   note         = {CC BY 4.0},
@@ -39,16 +44,16 @@
 
 # 各ファイルの説明
 ## `/lajar_demo`
-LAJaR のデータをブラウザ上の地図で確認できます。
-デモバージョンは、https://lajar.netlify.app/ で公開しています。
+LAJaR Dataset をブラウザ上の地図で確認できます。
+デモサイトは、https://lajar.netlify.app/ で公開しています。
 
 ### `lajar_data.json`
-Webアプリ（`lajar_demo`）で使用される地域言語データを含むJSON形式のデータセットです。  
+デモサイト（`lajar_demo`）で使用される地域言語データを含むJSON形式のデータセットです。  
 各地点ごとに、文法特徴に関する情報をまとめています。
 
 #### 構造概要
 - `dropdownContents`: 表示可能なパラメータ（文法現象や言語特徴）の一覧です。`parameter.csv`のIDと対応しています。  
-  Webアプリ上では、このリストがセレクトメニューに使用されます。
+  デモサイト上では、このリストがセレクトメニューに使用されます。
 
 - `locations`: 各言語・方言のエントリ。以下の情報を含みます：
   - `name`: 方言の名称
