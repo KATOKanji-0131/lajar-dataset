@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
             
 
-            const map = L.map('map-container').setView([34.6, 138.2529], 5);
+            const map = L.map('map-container').setView([35.5, 138.2529], 5);
 
             // OpenStreetMapタイルレイヤー
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
