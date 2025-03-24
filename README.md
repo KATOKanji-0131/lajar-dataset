@@ -2,11 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 # このデータセットについて
-このリポジトリは、方言文法データセット **LAJaR (Linguistic Atlas of Japanese and Ryukyuan)** です。日琉諸語の文法情報を構造化データとして提供します。
-
-日琉諸語の各言語・方言がどのような文法的特徴を持っているかを、既存の文献やフィールドデータから抽出し、構造化されたデータにしました。
-
-基本的なデータ構造は、The World Atlas of Language Structures Online (WALS: https://wals.info/) のものを踏襲していますが、LAJaR独自の項目も含んでいます。
+日琉諸語文法データプロジェクト LAJaR (Linguistic Atlas of Japanese and Ryukyuan) では、日琉諸語の各言語・方言がどのような文法的特徴を持っているかを、既存の文献やフィールドデータから抽出し、構造化したデータを公開します。このリポジトリでは、LAJaR データセットを提供します。基本的なデータ構造はWALS ([The World Atlas of Language Structures Online](https://wals.info/))のものを踏襲していますが、LAJaR独自の項目も含んでいます。
 
 # ライセンス
 - **データ（例: JSON, CSVファイル）**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
@@ -43,7 +39,7 @@
 
 # 各ファイルの説明
 ## `/lajar_demo`
-LAJaRのデータをブラウザ上の地図で確認できます。
+LAJaR のデータをブラウザ上の地図で確認できます。
 デモバージョンは、https://lajar.netlify.app/ で公開しています。
 
 ### `lajar_data.json`
