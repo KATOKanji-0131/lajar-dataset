@@ -7,6 +7,15 @@ body {
     background-color: #f0f2f5;
 }
 
+#header-bar h1 {
+    font-size: 2vw;
+    margin: 0;
+    padding: 10px 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 #header-bar {
     width: 100%;
     background-color: rgb(37, 96, 167); /* RGB指定で色を設定 */

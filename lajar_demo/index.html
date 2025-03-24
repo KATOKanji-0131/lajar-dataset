@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/resizable-js@1.0.0/dist/resizable.min.css">
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/resizable-js@1.0.0/dist/resizable.min.js"></script>
-    <style>
+    <!-- <style>
         body {
             font-family: 'Noto Sans JP', sans-serif;
             margin: 0;
@@ -21,6 +21,16 @@
             text-align: center;
             padding: 0px;
         }
+
+        #header-bar h1 {
+        font-size: 2vw;
+        margin: 0;
+        padding: 10px 5px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        }
+
         #content {
             display: flex;
         }
@@ -37,7 +47,21 @@
             padding: 10px;
             text-align: center;
         }
-    </style>
+        @media (max-width: 768px) {
+        #header-bar h1 {
+        font-size: 4vw;
+        padding: 8px 5px;
+        }
+        }
+
+        @media (max-width: 480px) {
+        #header-bar h1 {
+        font-size: 5vw;
+        padding: 6px 5px;
+        }
+        }
+
+    </style> -->
 </head>
 <body>
     <div id="header-bar">
@@ -57,10 +81,10 @@
         </div>
         <div id="map-container" class="resizable"></div>
     </div>
-    <div id="controls">
+    <!-- <div id="controls">
         <button id="toggle-cycle">自動切り替え: オフ</button>
         <div id="info-display"></div>
-    </div>
+    </div> -->
     <script src="script.js"></script>
 </body>
 </html>
