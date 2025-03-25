@@ -126,8 +126,12 @@ LAJaR Dataset をブラウザ上の地図で確認できます。
 ### `source.bib`
 文法特徴を参照した文献の一覧です。BibTeX形式で書かれています。
 
+### `lajar_template.xlsx`
+データの追加をしてくださるcontributorのためのテンプレートです。
+データ追加にご協力いただける方は、地点名、緯度経度、データ、データの出典を記入して、以下の連絡先までご連絡ください。
+
 # 連絡先
-ご質問・バグ報告・共同研究のご相談などは以下までご連絡ください：
+ご質問・バグ報告・共同研究・データ追加のご相談などは以下までご連絡ください：
 - 加藤幹治 [jiateng.ganzhi@gmail.com](mailto:jiateng.ganzhi@gmail.com)
 - 宮川創 [runa.uei@gmail.com](mailto:runa.uei@gmail.com)
 
