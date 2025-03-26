@@ -4029,7 +4029,7 @@
                     "source": "森ほか（2015: 80-81）"
                 },
                 {
-                    "value": "Demonstrative word precedes noun (DemN)",
+                    "value": "Demonstrative-Noun",
                     "source": "森ほか（2015: 161-165）"
                 },
                 {
@@ -4037,7 +4037,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "Relative clause precedes noun (RelN)",
+                    "value": "Relative clause-Noun",
                     "source": "森ほか（2015: 115-118）"
                 },
                 {
@@ -4879,7 +4879,7 @@
                     "source": "小西（2016: 143）の例文(4)などにある。本文では明示なさそう。"
                 },
                 {
-                    "value": "Demonstrative word precedes noun (DemN)",
+                    "value": "Demonstrative-Noun",
                     "source": "小西（2016: 85-87）"
                 },
                 {
@@ -4887,11 +4887,11 @@
                     "source": "no data"
                 },
                 {
-                    "value": "Relative clause precedes noun (RelN)",
+                    "value": "Relative clause-Noun",
                     "source": "小西（2016: 184）"
                 },
                 {
-                    "value": "Relative clause precedes noun (RelN)",
+                    "value": "Relative clause-Noun (RelN) dominant",
                     "source": "小西（2016: 184）"
                 },
                 {
@@ -6588,7 +6588,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "Relative clause precedes noun (RelN)",
+                    "value": "Relative clause-Noun",
                     "source": "廣澤フィールドデータ"
                 },
                 {
@@ -8268,7 +8268,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "postposition",
+                    "value": "Postpositions",
                     "source": "中村（2019: 100-125）"
                 },
                 {
