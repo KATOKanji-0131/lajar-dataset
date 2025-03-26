@@ -1231,7 +1231,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "suffix / alternation",
                     "source": "no data"
                 },
                 {
@@ -1239,7 +1239,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Interrogative noun",
                     "source": "no data"
                 },
                 {
@@ -1339,19 +1339,19 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No possessive affixes",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Absent",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "None reported",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No possessive classification",
                     "source": "no data"
                 },
                 {
@@ -1375,7 +1375,123 @@
                     "source": "no data"
                 },
                 {
+                    "value": "DIfferentiation",
+                    "source": "no data"
+                },
+                {
                     "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "Present, no remoteness distinctions",
+                    "source": "no data"
+                },
+                {
+                    "value": "No inflectional future",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "Tense-aspect suffixes",
+                    "source": "no data"
+                },
+                {
+                    "value": "Second person number-neutral",
+                    "source": "no data"
+                },
+                {
+                    "value": "Special imperative + special negative",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "Affixes on verbs",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "なし",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "SOV",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "SV",
+                    "source": "no data"
+                },
+                {
+                    "value": "OV",
+                    "source": "no data"
+                },
+                {
+                    "value": "no data",
+                    "source": "no data"
+                },
+                {
+                    "value": "Postpositions",
+                    "source": "no data"
+                },
+                {
+                    "value": "Genitive-Noun",
+                    "source": "no data"
+                },
+                {
+                    "value": "Adjective-Noun",
+                    "source": "no data"
+                },
+                {
+                    "value": "Demonstrative-Noun",
+                    "source": "no data"
+                },
+                {
+                    "value": "Numeral-Noun",
+                    "source": "no data"
+                },
+                {
+                    "value": "Relative clause-Noun",
+                    "source": "no data"
+                },
+                {
+                    "value": "Relative clause-Noun (RelN) dominant",
                     "source": "no data"
                 },
                 {
@@ -1403,147 +1519,31 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Final",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Final",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Final subordinator word",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "OV and postpositions",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "OV and RelN",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "OV and AdjN",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
+                    "value": "Nominative - accusative (marked nominative)",
                     "source": "no data"
                 },
                 {
@@ -2073,7 +2073,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "suffix / reduplication",
                     "source": "no data"
                 },
                 {
@@ -2081,7 +2081,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "suffix / alternation",
                     "source": "no data"
                 },
                 {
