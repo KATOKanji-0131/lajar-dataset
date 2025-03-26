@@ -9,15 +9,15 @@ pk,parameter_id,description-en,description-jp,奄美語徳之島面縄方言,沖
 8,8A,Lateral Consonants,側面音があるか,No laterals,No laterals,No laterals,No laterals,No laterals,No laterals,No laterals,No laterals,No laterals,No laterals,no data,no data,No laterals,no data
 9,9A,The Velar Nasal,軟口蓋鼻音を音素として持つか,No velar nasal,No velar nasal,No velar nasal,No velar nasal,no data,no data,no data,No velar nasal,No velar nasal,No velar nasal,No velar nasal,No velar nasal,"Velar nasal, but not initially",no data
 10,10A,Vowel Nasalization,弁別的な鼻母音はあるか,contrast absent,contrast absent,Contrast absent,Contrast absent,Contrastive nasal vowels absent,Contrastive nasal vowels absent,Contrast absent,Contrast absent,Contrast absent,Contrast absent,no data,Contrast absent,Contrastive nasal vowels absent,no data
-11,10B,Nasal Vowels in West Africa,西アフリカ語における鼻母音,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+11,10B,Nasal Vowels in West Africa,西アフリカ語における鼻母音,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格
 12,11A,Front Rounded Vowels,前舌円唇母音の有無,なし,なし,なし,なし,なし,no data,なし,なし,なし,なし,no data,なし,なし,no data
 13,12A,Syllable Structure,音節構造,(C)(G)V(V)C,(N)(C)(G)V(V)(C),no data,(C(G))V(V)(C),Moderately complex syllable structure,no data,CVVC,(C1(G))V1(V2)(C2),(C(G))V(V)(C),(C)(C)(G)V(V)(C),no data,no data,(C)(S)V(V)(M),no data
 14,13A,Tone,tonal languageか。HLより複雑な声調の区別があるか。,Simple tone system,Simple tone system,Simple tone system,No tones,Simple tone system,No tones,no data,No tones,Simple tone system,なし,Simple tone system,なし,Simple tone system,no data
-15,14A,Fixed Stress Locations,固定されたストレス位置があるか,no data,No fixed stress,no data,No fixed stress,No fixed stress,No fixed stress,No fixed stress,no data,no data,no data,no data,no data,no data,no data
-16,15A,Weight-Sensitive Stress,no data,no data,Not predictable,no data,Not predictable,Not predictable,Not predictable,no,no data,no data,no data,no data,no data,no data,no data
-17,16A,Weight Factors in Weight-Sensitive Stress Systems,no data,no data,"No weight, or weight factor unknown",no data,"No weight, or weight factor unknown",no data,"No weight, or weight factor unknown",no,no data,no data,no data,no data,no data,no data,no data
-18,17A,Rhythm Types,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-19,18A,Absence of Common Consonants,no data,All present,All present,All present,All present,All present,All present,All present,All present,no data,All present,no data,All present,All present,All present
+15,14A,Fixed Stress Locations,固定されたストレス位置があるか,不適格,No fixed stress,不適格,No fixed stress,No fixed stress,No fixed stress,No fixed stress,不適格,no data,不適格,不適格,不適格,no data,不適格
+16,15A,Weight-Sensitive Stress,no data,不適格,Not predictable,no data,Not predictable,Not predictable,Not predictable,no,不適格,no data,不適格,不適格,不適格,no data,不適格
+17,16A,Weight Factors in Weight-Sensitive Stress Systems,no data,不適格,"No weight, or weight factor unknown",no data,"No weight, or weight factor unknown",no data,"No weight, or weight factor unknown",no,不適格,no data,不適格,不適格,不適格,no data,不適格
+18,17A,Rhythm Types,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,不適格,不適格,no data,不適格
+19,18A,Absence of Common Consonants,no data,All present,All present,All present,All present,All present,All present,All present,All present,no data,All present,不適格,All present,All present,All present
 20,19A,Presence of Uncommon Consonants,no data,なし,なし,なし,なし,なし,なし,なし,なし,no data,なし,なし,なし,なし,no data
 21,20A,Fusion of Selected Inflectional Formatives,no data,Exclusively concatenative,Exclusively concatenative,no data,Exclusively concatenative,Exclusively concatenative,Exclusively concatenative,Exclusively concatenative,Exclusively concatenative,no data,Exclusively concatenative,no data,no data,Ablaut/concatinative,no data
 22,21A,Exponence of Selected Inflectional Formatives,格の標示を行う形態素は、格標示以外の機能を持つか (e.g. ラテン語の第二変化男性主格単数の -usは、主格以外に「単数」も標示する),Monoexponential case,Monoexponential case,no data,Monoexponential case,Monoexponential case,Monoexponential case,Monoexponential case,Monoexponential case,Monoexponential case,Monoexponential case,no data,Monoexponential case,Monoexponential case,no data
@@ -47,7 +47,7 @@ Non-zero marking"
 45,37A,Definite Articles,no data,No definite or indefinite article,No definite or indefinite article,No definite or indefinite article,No definite or indefinite article,Neither definite nor indefinite article,Neither definite nor indefinite article,No definite or indefinite article,No definite or indefinite article,No definite or indefinite article,No definite or indefinite particle,no data,No definite or indefinite particle,Neither definite nor indefinite article,no data
 46,38A,Indefinite Articles,no data,No definite or indefinite article,No definite or indefinite article,No definite or indefinite article,No definite or indefinite article,Neither indefinite nor definite,Neither indefinite nor definite,No definite or indefinite article,No definite or indefinite article,No definite or indefinite article,No definite or indefinite particle,no data,No definite or indefinite particle,Neither definite nor indefinite article,no data
 47,39A,Inclusive/Exclusive Distinction in Independent Pronouns,no data,No inclusice / exclusive,No inclusice / exclusive,no data,No inclusive/exclusive,No inclusive/exclusive opposition,No inclusive/exclusive opposition,no data,No inclusive/exclusive distinction,no data,No inclusive/exclusive,no data,no data,no data,no data
-48,39B,Inclusive/Exclusive Forms in Pama-Nyungan,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+48,39B,Inclusive/Exclusive Forms in Pama-Nyungan,no data,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格,不適格,no data,不適格,不適格,no data
 49,40A,Inclusive/Exclusive Distinction in Verbal Inflection,no data,No person marking,No person marking,No person marking,No person marking,No person marking at all,No person marking at all,No person marking,No person marking,No person marking,No person marking,no data,No person marking,No inclusive/exclusive opposition,no data
 50,41A,Distance Contrasts in Demonstratives,no data,Three-way contrast,Two-way contrast,no data,Three-way contrast,Three-way contrast,Three-way contrast,Three-way contrast,Three-way contrast,Three-way contrast,Three-way contrast,no data,no data,no data,no data
 51,42A,Pronominal and Adnominal Demonstratives,no data,Different inflection,Different inflection,no data,Different inflection,Different inflectional features	,Different inflectional features,Different inflection,Different inflection,Different inflection,different inflection,no data,no data,Different inflection,no data
@@ -95,7 +95,7 @@ Non-zero marking"
 93,79B,Suppletion in Imperatives and Hortatives,命令・勧誘のパラダイムに補充形があるか,なし,no data,no data,なし,なし,なし,なし,なし,no data,なし,no data,no data,no data,no data
 94,80A,Verbal Number and Suppletion,動詞の人称パラダイムに補充形があるか,No singular-(dual)-plural pairs/triples,no data,no data,No singular-(dual)-plural pairs/triples,No singular-(dual)-plural pairs/triples,No singular-(dual)-plural pairs/triples,No singular-(dual)-plural pairs/triples,なし,no data,なし,no data,no data,no data,no data
 95,81A,Order of Subject	 Object and Verb,基本語順,SOV,no data,SOV,SOV,no data,Subject-object-verb,Subject-object-verb,SOV,SOV,SOV,no data,SOV,no data,no data
-96,81B,Languages with two Dominant Orders of Subject	 Object	 and Verb,基本語順が定まらない場合のありうる語順,no data,no data,?,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+96,81B,Languages with two Dominant Orders of Subject	 Object	 and Verb,基本語順が定まらない場合のありうる語順,不適格,no data,?,不適格,no data,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
 97,82A,Order of Subject and Verb,no data,SV,no data,SV,SV,Subject precedes verb (SV),Subject precedes verb (SV),Subject precedes verb (SV),SV,no data,SV,no data,SV,no data,no data
 98,83A,Order of Object and Verb,no data,OV,no data,OV,OV,Object precedes verb (OV),Object precedes verb (OV),Object precedes verb (OV),OV,no data,OV,no data,OV,no data,no data
 99,84A,Order of Object         Oblique         and Verb,no data,no data,no data,no data,no data,no data,no data,XOV,no data,no data,no data,no data,no data,no data,no data
@@ -106,11 +106,11 @@ Non-zero marking"
 104,89A,Order of Numeral and Noun,no data,Numeral-Noun,no data,no data,Numeral-Noun,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
 105,90A,Order of Relative Clause and Noun,no data,Relative clause-Noun,no data,no data,Relative clause-Noun,Relative clause precedes noun (RelN),Relative clause precedes noun (RelN),no data,Relative clause precedes noun (RelN),no data,Relative Clause-Noun,no data,Relative Clause-Noun,no data,no data
 106,90B,Prenominal relative clauses,NとRelの位置関係に揺れが生じ、かつその選択肢の一つにRelNがあるか。揺れがない言語はRelative clause-Noun (RelN) dominantとする。,Relative clause-Noun (RelN) dominant,no data,no data,Relative clause-Noun (RelN) dominant,Relative clause-Noun (RelN) dominant,Relative clause precedes noun (RelN),no data,Relative clause-Noun (RelN) dominant,no data,Relative clause-Noun (RelN) dominant,no data,Relative clause-Noun (RelN) dominant,no data,no data
-107,90C,Postnominal relative clauses,NとRelの位置関係に揺れが生じ、かつその選択肢の一つにNRelがあるか。,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+107,90C,Postnominal relative clauses,NとRelの位置関係に揺れが生じ、かつその選択肢の一つにNRelがあるか。,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,不適格,no data,不適格,no data,no data
 108,90D,Internally-headed relative clauses,no data,Internally-headed occurs as nondominant type,no data,no data,no data,no data,no data,no data,no data,no data,Internally-headed occurs as nondominant type,no data,no data,no data,no data
-109,90E,Correlative relative clauses,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-110,90F,Adjoined relative clauses,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-111,90G,Double-headed relative clauses,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+109,90E,Correlative relative clauses,no data,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,不適格,no data,不適格,no data,no data
+110,90F,Adjoined relative clauses,no data,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,不適格,no data,不適格,no data,no data
+111,90G,Double-headed relative clauses,no data,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,不適格,no data,不適格,no data,no data
 112,91A,Order of Degree Word and Adjective,no data,Degree word-Adjective,no data,no data,Degree word-Adjective,Degree word precedes adjective (DegAdj),Degree word precedes adjective (DegAdj),no data,Degree word precedes adjective (DegAdj),no data,no data,no data,no data,no data,no data
 113,92A,Position of Polar Question Particles,no data,Final,no data,no data,Final,Question particle at end of sentence,Question particle at end of sentence,no data,Final,no data,Final,no data,no data,no data,no data
 114,93A,Position of Interrogative Phrases in Content Questions,no data,Final,no data,no data,Not initial interrogative phrase,no data,no data,no data,Not initial interrogative phrase,no data,no data,no data,no data,no data,no data
@@ -132,7 +132,7 @@ Non-zero marking"
 130,108B,Productivity of the Antipassive Construction,no data,No antipassive,no data,no data,No antipassive,no antipassive,no antipassive,no data,No antipassive,no data,No antipassive,no data,no data,no data,no data
 131,109A,Applicative Constructions,no data,No applicative construction,no data,no data,No applicative construction,No applicative construction,No applicative construction,no data,No applicative construction,no data,No applicative construction,no data,no data,no data,no data
 132,109B,Other Roles of Applied Objects,no data,No applicative construction,no data,no data,No applicative construction,no data,no data,no data,No applicative construction,no data,No applicative construction,no data,no data,no data,no data
-133,110A,Periphrastic Causative Constructions,Biclausalな使役表現があるか,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+133,110A,Periphrastic Causative Constructions,Biclausalな使役表現があるか,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,不適格,no data,no data,no data,no data
 134,111A,Nonperiphrastic Causative Constructions,no data,Morphological but no compound,no data,no data,Morphological but no compound,Morphological type but no compound type,Morphological type but no compound type,no data,Morphological but no compound,no data,Morphological but no compound,no data,Morphological but no compound,no data,no data
 135,112A,Negative Morphemes,"平叙文における否定の方略。”declarative sentence""としか書いていないので、述部が動詞・形容詞・名詞のいずれも含む？",Variation between negative word and affix,no data,no data,Negative affix,Negative affix,Negative affix,no data,Negative affix,no data,Negative affix,no data,Negative affix,no data,no data
 136,112-J-1,Negation of Verbs,動詞の否定,no data,no data,no data,no data,no data,no data,no data,Negative affix,no data,Negative affix,no data,Negative affix,no data,no data
@@ -156,7 +156,7 @@ Non-zero marking"
 154,128A,Utterance Complement Clauses,発話の補節の述語動詞は、単独で平叙文を作ることができるか,Balanced,no data,no data,Balanced,Balanced,Balanced,no data,Baranced,no data,Baranced,no data,no data,no data,no data
 155,129A,Hand and Arm,「手」と「腕」は同じ語彙か,Different,no data,different,Different,Differentiation,no data,no data,Different,no data,different,no data,no data,no data,no data
 156,130A,Finger and Hand,「指」と「手」は同じ語彙か,Different,no data,different,Different,Differentiation,no data,no data,Different,no data,different,no data,no data,no data,no data
-157,130B,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+157,130B,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',no data,不適格,no data,no data,不適格,不適格,no data,no data,不適格,no data,不適格,no data,no data,no data,no data
 158,131A,Numeral Bases,数詞は何進法か,Decimal,no data,Decimal,Decimal,no data,no data,no data,Decimal,no data,Decimal,no data,no data,no data,no data
 159,132A,Number of Non-Derived Basic Colour Categories,黒白赤黄緑青をいくつのカテゴリーで区別するか,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
 160,133A,Number of Basic Colour Categories,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
@@ -167,42 +167,42 @@ Non-zero marking"
 165,137A,N-M Pronouns,一人称代名詞に歯または歯茎鼻音、二人称代名詞に両唇鼻音を含むか,No N-M pronouns,no data,no data,No N-M pronouns,No N-M pronouns,no data,no data,No N-M pronouns,no data,No N-M pronouns,no data,No N-M pronouns,no data,no data
 166,137B,M in Second Person Singular,二人称代名詞に両唇鼻音を含むか,No m in second person singular,no data,No m in second person singular,m in second person singular	,No m in second person singular,no data,no data,No m in second person singular,no data,No m in second person singular	,no data,m in second person singular	,no data,no data
 167,138A,Tea,「茶」をなんというか,Words derived from Sinitic cha,no data,no data,Words derived from Sinitic cha,Words derived from Sinitic cha,no data,no data,Words derived from Sinitic cha,no data,Words derived from Sinitic cha,no data,no data,no data,no data
-168,139A,Irregular Negatives in Sign Languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-169,140A,Question Particles in Sign Languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-170,141A,Writing Systems,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+168,139A,Irregular Negatives in Sign Languages,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+169,140A,Question Particles in Sign Languages,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+170,141A,Writing Systems,no data,no data,no data,no data,no data,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
 171,142A,Para-Linguistic Usages of Clicks,舌打ちが何を意味するか,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
 172,143A,Order of Negative Morpheme and Verb,動詞と否定要素の順番,NegV / [Neg-V],no data,no data,[V-Neg],[V-Neg],[V-Neg],no data,[V-Neg],no data,[V-Neg],no data,[V-Neg],no data,no data
-173,143B,Obligatory Double Negation,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-174,143C,Optional Double Negation,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-175,143D,Optional Triple Negation,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+173,143B,Obligatory Double Negation,no data,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,no data,no data,no data,no data,no data
+174,143C,Optional Double Negation,no data,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,no data,no data,no data,no data,no data
+175,143D,Optional Triple Negation,no data,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,no data,no data,no data,no data,no data
 176,143E,Preverbal Negative Morphemes,no data,No preverbal negative morpheme,no data,no data,No preverbal negative morpheme,No preverbal negative morpheme,No preverbal negative morpheme,no data,No preverbal negative morpheme,no data,No preverbal negative morpheme,no data,no data,no data,no data
 177,143F,Postverbal Negative Morphemes,no data,NegV / [Neg-V],no data,no data,[V-Neg],Negative suffix,Negative suffix,no data,[V-Neg],no data,Negative suffix,no data,Negative suffix,no data,no data
 178,143G,Minor morphological means of signaling negation,no data,なし,no data,no data,なし,"No negative tone, infix or stem change","No negative tone, infix or stem change",no data,なし,no data,"No negative tone, infix or stem change",no data,"No negative tone, infix or stem change",no data,no data
 179,144A,Position of Negative Word With Respect to Subject	 Object	 and Verb,no data,Morphological negation only,no data,no data,MorphNeg,Morphological negation only,Morphological negation only,no data,MorphNeg,no data,Morphological negation only,no data,MorphNeg,no data,no data
-180,144B,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-181,144C,Languages with different word order in negative clauses,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-182,144D,The Position of Negative Morphemes in SVO Languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-183,144E,Multiple Negative Constructions in SVO Languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-184,144F,Obligatory Double Negation in SVO languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-185,144G,Optional Double Negation in SVO languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-186,144H,NegSVO Order,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-187,144I,SNegVO Order,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-188,144J,SVNegO Order,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-189,144K,SVONeg Order,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+180,144B,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+181,144C,Languages with different word order in negative clauses,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+182,144D,The Position of Negative Morphemes in SVO Languages,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+183,144E,Multiple Negative Constructions in SVO Languages,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+184,144F,Obligatory Double Negation in SVO languages,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+185,144G,Optional Double Negation in SVO languages,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+186,144H,NegSVO Order,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+187,144I,SNegVO Order,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+188,144J,SVNegO Order,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+189,144K,SVONeg Order,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
 190,144L,The Position of Negative Morphemes in SOV Languages,SOV言語で、否定の形態素はどこに位置するか,SO[V-Neg],no data,no data,SO[V-Neg],SO[V-Neg],SO[V-Neg],no data,SO[V-Neg],no data,SO[V-Neg],no data,SO[V-Neg],no data,no data
-191,144M,Multiple Negative Constructions in SOV Languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-192,144N,Obligatory Double Negation in SOV languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-193,144O,Optional Double Negation in SOV languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-194,144P,NegSOV Order,no data,No NegSOV,no data,no data,No NegSOV,SOV but NegSOV does not occur,SOV but NegSOV does not occur,no data,No NegSOV,no data,No NegSOV,no data,no data,no data,no data
-195,144Q,SNegOV Order,no data,No SNegOV,no data,no data,No SNegOV,SOV but SNegOV does not occur,SOV but SNegOV does not occur,no data,No SNegOV,no data,No SNegOV,no data,no data,no data,no data
-196,144R,SONegV Order,no data,No SONegV,no data,no data,No SONegV,"SOV, but SONegV does not occur","SOV, but SONegV does not occur",no data,No SONegV,no data,No SONegV,no data,no data,no data,no data
+191,144M,Multiple Negative Constructions in SOV Languages,no data,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,no data,no data,不適格,no data,no data
+192,144N,Obligatory Double Negation in SOV languages,no data,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,no data,no data,不適格,no data,no data
+193,144O,Optional Double Negation in SOV languages,no data,不適格,no data,no data,不適格,no data,no data,no data,不適格,no data,no data,no data,不適格,no data,no data
+194,144P,NegSOV Order,no data,No NegSOV,no data,no data,No NegSOV,SOV but NegSOV does not occur,SOV but NegSOV does not occur,no data,No NegSOV,no data,No NegSOV,no data,不適格,no data,no data
+195,144Q,SNegOV Order,no data,No SNegOV,no data,no data,No SNegOV,SOV but SNegOV does not occur,SOV but SNegOV does not occur,no data,No SNegOV,no data,No SNegOV,no data,不適格,no data,no data
+196,144R,SONegV Order,no data,No SONegV,no data,no data,No SONegV,"SOV, but SONegV does not occur","SOV, but SONegV does not occur",no data,No SONegV,no data,No SONegV,no data,不適格,no data,no data
 197,144S,SOVNeg Order,no data,Suffix&NoDoubleNeg,no data,no data,Suffix&NoDoubleNeg,"Suffix, no double negation","Suffix, no double negation",no data,Suffix&NoDoubleNeg,no data,Suffix&NoDoubleNeg,no data,Suffix&NoDoubleNeg,no data,no data
-198,144T,The Position of Negative Morphemes in Verb-Initial Languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-199,144U,Double negation in verb-initial languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-200,144V,Verb-Initial with Preverbal Negative,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-201,144W,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-202,144X,Verb-Initial with Clause-Final Negative,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
-203,144Y,The Position of Negative Morphemes in Object-Initial Languages,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+198,144T,The Position of Negative Morphemes in Verb-Initial Languages,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+199,144U,Double negation in verb-initial languages,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+200,144V,Verb-Initial with Preverbal Negative,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+201,144W,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+202,144X,Verb-Initial with Clause-Final Negative,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
+203,144Y,The Position of Negative Morphemes in Object-Initial Languages,no data,不適格,no data,no data,不適格,不適格,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
 204,145-J,Nominal Accent Pattern,語アクセントの対立があるか。ある場合、どのようなシステムか。（無型、1型、2型、3型、4型、5型、n+1型、レジスターの有無など）,3型,no data,no data,無型,2型,n+1,no data,無型,no data,無型,no data,無型,no data,no data
 205,146-J,Verbal Accent Pattern,語アクセントの対立があるか。ある場合、どのようなシステムか。（無型、1型、2型、3型、4型、5型、n+1型、レジスターの有無など）,2型,no data,no data,無型,2型,1型,no data,無型,no data,無型,no data,無型,no data,no data
 206,1447-J,Retention of word-initial /p/,no data,No,no data,no data,No,1単語のみ（pojaNsu: 肛門）。これは「保持している」といえる?,no data,no data,No,no data,no data,no data,no data,no data,no data
