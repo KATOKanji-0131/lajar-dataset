@@ -94,10 +94,10 @@ Non-zero marking"
 92,79A,Suppletion According to Tense and Aspect,時制のパラダイムに補充形があるか,No suppletion in tense or aspect,no data,no data,No suppletion in tense or aspect,No suppletion in tense or aspect,No suppletion in tense or aspect,No suppletion in tense or aspect,No suppletion in tense or aspect,no data,なし,no data,no data,no data,no data
 93,79B,Suppletion in Imperatives and Hortatives,命令・勧誘のパラダイムに補充形があるか,なし,なし,no data,なし,なし,なし,なし,なし,no data,なし,no data,no data,no data,no data
 94,80A,Verbal Number and Suppletion,動詞の人称パラダイムに補充形があるか,No singular-(dual)-plural pairs/triples,no data,no data,No singular-(dual)-plural pairs/triples,No singular-(dual)-plural pairs/triples,No singular-(dual)-plural pairs/triples,No singular-(dual)-plural pairs/triples,なし,no data,なし,no data,no data,no data,no data
-95,81A,Order of Subject	 Object and Verb,基本語順,SOV,SOV,SOV,SOV,no data,Subject-object-verb,Subject-object-verb,SOV,SOV,SOV,no data,SOV,no data,no data
+95,81A,Order of Subject	 Object and Verb,基本語順,SOV,SOV,SOV,SOV,no data,SOV,SOV,SOV,SOV,SOV,no data,SOV,no data,no data
 96,81B,Languages with two Dominant Orders of Subject	 Object	 and Verb,基本語順が定まらない場合のありうる語順,不適格,no data,?,不適格,no data,不適格,no data,不適格,no data,不適格,no data,不適格,no data,no data
-97,82A,Order of Subject and Verb,no data,SV,SV,SV,SV,Subject precedes verb (SV),Subject precedes verb (SV),Subject precedes verb (SV),SV,no data,SV,no data,SV,no data,no data
-98,83A,Order of Object and Verb,no data,OV,OV,OV,OV,Object precedes verb (OV),Object precedes verb (OV),Object precedes verb (OV),OV,no data,OV,no data,OV,no data,no data
+97,82A,Order of Subject and Verb,no data,SV,SV,SV,SV,SV,SV,SV,SV,no data,SV,no data,SV,no data,no data
+98,83A,Order of Object and Verb,no data,OV,OV,OV,OV,OV,OV,OV,OV,no data,OV,no data,OV,no data,no data
 99,84A,Order of Object         Oblique         and Verb,no data,no data,no data,no data,no data,no data,no data,XOV,no data,no data,no data,no data,no data,no data,no data
 100,85A,Order of Adposition and Noun Phrase,no data,Postpositions,Postpositions,no data,Postpositions,Postpositions,Postpositions,Postpositions,Postpositions,Postpositions,postposition,no data,postposition,no data,no data
 101,86A,Order of Genitive and Noun,no data,Genitive-Noun,Genitive-Noun,no data,Genitive-Noun,Genitive-noun (GenN),Genitive-noun (GenN),no data,Genitive-Noun,no data,Genitive-Noun,no data,Genitive-Noun,no data,no data
