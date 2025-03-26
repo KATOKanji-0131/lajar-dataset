@@ -2,7 +2,7 @@ pk,id,description-en,description-jp
 1,1A,Consonant Inventories,子音の数はいくつか
 2,2A,Vowel Quality Inventories,母音の数はいくつか
 3,3A,Consonant-Vowel Ratio,子音は母音の何倍あるか
-4,4A,Voicing in Plosives and Fricatives,
+4,4A,Voicing in Plosives and Fricatives,破裂音と摩擦音に有声/無声の対立があるか
 5,5A,Voicing and Gaps in Plosive Systems,ptkbdgのうち、存在しない音はあるか
 6,6A,Uvular Consonants,口蓋垂音はあるか
 7,7A,Glottalized Consonants,放出音、入破音、声門化鼻音があるか

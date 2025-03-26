@@ -481,7 +481,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "Obligatory",
+                    "value": "Numeral classifiers are obligatory\t",
                     "source": "no data"
                 },
                 {
@@ -585,7 +585,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No suppletion in tense or aspect",
                     "source": "no data"
                 },
                 {
@@ -593,7 +593,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No singular-(dual)-plural pairs/triples",
                     "source": "no data"
                 },
                 {
@@ -921,7 +921,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No preverbal negative morpheme",
                     "source": "no data"
                 },
                 {
@@ -1303,7 +1303,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No person marking",
                     "source": "no data"
                 },
                 {
@@ -1311,7 +1311,15 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Symmetrical",
+                    "source": "no data"
+                },
+                {
+                    "value": "Postpositional clitics",
+                    "source": "no data"
+                },
+                {
+                    "value": "Differentiation",
                     "source": "no data"
                 },
                 {
@@ -1319,19 +1327,11 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Marked by suffix",
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
-                    "source": "no data"
-                },
-                {
-                    "value": "no data",
+                    "value": "Numeral classifiers are obligatory\t",
                     "source": "no data"
                 },
                 {
@@ -2831,11 +2831,11 @@
                     "source": "松岡（2021: 13-15）"
                 },
                 {
-                    "value": "no",
+                    "value": "Not predictable",
                     "source": "松岡（2021: 13-15）"
                 },
                 {
-                    "value": "no",
+                    "value": "No weight, or weight factor unknown",
                     "source": "松岡（2021: 13-15）"
                 },
                 {
@@ -3135,7 +3135,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No suppletion in tense or aspect",
                     "source": "松岡フィールドデータ"
                 },
                 {
@@ -3143,7 +3143,7 @@
                     "source": "松岡フィールドデータ"
                 },
                 {
-                    "value": "no data",
+                    "value": "No singular-(dual)-plural pairs/triples",
                     "source": "松岡フィールドデータ"
                 },
                 {
@@ -3359,11 +3359,11 @@
                     "source": "松岡（2021: 85）"
                 },
                 {
-                    "value": "gap",
+                    "value": "Gap",
                     "source": "松岡フィールドデータ"
                 },
                 {
-                    "value": "gap",
+                    "value": "Gap",
                     "source": "松岡フィールドデータ"
                 },
                 {
@@ -3471,7 +3471,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No preverbal negative morpheme",
                     "source": "松岡フィールドデータ"
                 },
                 {
@@ -4213,7 +4213,7 @@
                     "source": "森ほか（2015: 115-117）"
                 },
                 {
-                    "value": "Gap Strategy",
+                    "value": "Gap",
                     "source": "森ほか（2015: 115-117）"
                 },
                 {
@@ -5063,7 +5063,7 @@
                     "source": "小西（2016: 78-82）"
                 },
                 {
-                    "value": "Gap Strategy",
+                    "value": "Gap",
                     "source": "小西（2016: 184）"
                 },
                 {
@@ -6872,7 +6872,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No preverbal negative morpheme",
                     "source": "Shimoji et al.(2022）"
                 },
                 {
@@ -7138,7 +7138,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "Animacy, adjacency, focus",
                     "source": "no data"
                 },
                 {
@@ -7282,7 +7282,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "Obligatory",
+                    "value": "Numeral classifiers are obligatory\t",
                     "source": "吉田（2005: 139-142）"
                 },
                 {
@@ -8480,11 +8480,11 @@
                     "source": "no data"
                 },
                 {
-                    "value": "balanced",
+                    "value": "Baranced",
                     "source": "中村（2019: 80）"
                 },
                 {
-                    "value": "balanced",
+                    "value": "Baranced",
                     "source": "中村（2019: 155）"
                 },
                 {
@@ -8572,7 +8572,7 @@
                     "source": "no data"
                 },
                 {
-                    "value": "no data",
+                    "value": "No preverbal negative morpheme",
                     "source": "中村（2019)"
                 },
                 {
